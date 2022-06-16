@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "Devopsadfdev01"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://synapsegen2vdev.dfs.core.windows.net/"
 		}
 	}
 }
